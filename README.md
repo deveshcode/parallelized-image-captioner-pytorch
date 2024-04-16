@@ -8,9 +8,6 @@ This project utilizes parallel deep learning techniques to enhance image caption
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Results](#results)
 - [Contributions](#contributions)
 - [License](#license)
@@ -50,3 +47,25 @@ pip install -r requirements.txt
 ### DataParallelism
 - Utilization of mixed precision training to optimize memory usage and computational speed.
 <img width="944" alt="Screenshot 2024-04-16 at 10 30 45 AM" src="https://github.com/deveshcode/parallel-image-caption-coco/assets/37287532/5c6a0892-d5d3-4eae-bc39-af89dab88125">
+
+### Contributions
+If you would like to contribute to this project, you can follow these steps:
+
+1. Fork the repository on GitHub.
+2. Create a new branch with a descriptive name for your contribution.
+3. Make your changes and commit them to your branch.
+4. Push your branch to your forked repository.
+5. Open a pull request on the original repository, describing your changes and why they should be merged.
+
+We appreciate any contributions to this project and will review and merge them if they align with the project's goals and guidelines.
+
+### DataParallelism
+- Utilization of mixed precision training to optimize memory usage and computational speed.
+### Acknowledgments
+We would like to acknowledge the contributions of the following individuals and organizations to this project:
+
+- Prof. Handan Liu for her guidance and insights.
+- Abhishek Shankar for his contributions to the project.
+
+### License
+This project is licensed under the [MIT License](LICENSE).
