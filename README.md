@@ -59,8 +59,6 @@ If you would like to contribute to this project, you can follow these steps:
 
 We appreciate any contributions to this project and will review and merge them if they align with the project's goals and guidelines.
 
-### DataParallelism
-- Utilization of mixed precision training to optimize memory usage and computational speed.
 ### Acknowledgments
 We would like to acknowledge the contributions of the following individuals and organizations to this project:
 
