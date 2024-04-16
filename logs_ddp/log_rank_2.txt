@@ -1,0 +1,23 @@
+2024-04-07 11:39:44,584 INFO Initializing training for rank 2 out of 3 processes
+2024-04-07 11:39:44,584 INFO Setting master address and port
+2024-04-07 11:39:45,635 INFO Distributed process group initialized
+2024-04-07 11:39:45,636 INFO Dataset initialized
+2024-04-07 11:39:45,636 INFO Dataset Size :75000
+2024-04-07 11:39:45,636 INFO Sampler initialized
+2024-04-07 11:39:45,636 INFO Device set to cuda:2
+2024-04-07 11:39:48,249 INFO Models initialized on device
+2024-04-07 11:39:48,846 INFO Models wrapped with DistributedDataParallel
+2024-04-07 11:39:48,846 INFO Criterion set to CrossEntropyLoss
+2024-04-07 11:39:48,849 INFO Optimizer set to Adam
+2024-04-07 11:39:48,849 INFO Dataloader initialized
+2024-04-07 11:39:48,849 INFO Starting epoch 1
+2024-04-07 11:42:09,421 INFO Epoch 1, Loss: 2.686286595402932, Time: 140.571857213974 sec
+2024-04-07 11:42:09,422 INFO Starting epoch 2
+2024-04-07 11:44:35,864 INFO Epoch 2, Loss: 1.7422765882647768, Time: 146.441237449646 sec
+2024-04-07 11:44:35,864 INFO Starting epoch 3
+2024-04-07 11:47:00,398 INFO Epoch 3, Loss: 1.5698192885943822, Time: 144.53388023376465 sec
+2024-04-07 11:47:00,399 INFO Starting epoch 4
+2024-04-07 11:49:23,269 INFO Epoch 4, Loss: 1.4806463876549079, Time: 142.86920309066772 sec
+2024-04-07 11:49:23,269 INFO Starting epoch 5
+2024-04-07 11:51:44,866 INFO Epoch 5, Loss: 1.47029775137804, Time: 141.59654259681702 sec
+2024-04-07 11:51:44,867 INFO Training completed and process group destroyed
